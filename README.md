@@ -115,8 +115,11 @@ Finally, you send the sensor data to your IoT hub. Note If you're using other ES
  			    	| GND (Pin 34F)  | GND (PIn 56I)    | Black cable | 
 
 
- 			    	For more information, see 
+ 			    	
+
+
  			    	![Adafruit DHT22 sensor setup](https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/9_connect-feather-huzzah-computer.png)
+
  			    	 
  Now your Feather Huzzah ESP8266 should be connected with a working sensor. 
  
