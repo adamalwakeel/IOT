@@ -57,7 +57,8 @@ You can send `start` or `stop` device method command to your feather HUZZAH ESP8
  			    	
 Between DHT22,DHT 11, 
 
-![Feather HUZZAH ESP8266, and IoT Hub]  (https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/1_connection-hdt22-feather-huzzah-iot-hub.png)
+Feather HUZZAH ESP8266, and IoT Hub
+(https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/1_connection-hdt22-feather-huzzah-iot-hub.png)
 
  
 
