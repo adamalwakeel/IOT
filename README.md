@@ -55,12 +55,16 @@ You can send `start` or `stop` device method command to your feather HUZZAH ESP8
 
 # ESP8266 to cloud - Connect Feather HUZZAH ESP8266 to Azure IoT Hub 
  			    	
-between DHT22,DHT 11, Feather HUZZAH ESP8266, and IoT Hub]
- (https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/1_connection-hdt22-feather-huzzah-iot-hub.png)
+Between DHT22,DHT 11, 
+
+![Feather HUZZAH ESP8266, and IoT Hub]  (https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/1_connection-hdt22-feather-huzzah-iot-hub.png)
+
+ 
 
 
 ## What you do Connect Adafruit Feather HUZZAH ESP8266 to an IoT hub that you create. 
 Then you run a sample application on ESP8266 to collect the temperature and humidity data from a DHT22 sensor. 
+Finally, you send the sensor data to your IoT hub. Note If you're using other ESP8266 boards, you can still follow these steps to connect it to your IoT hub. Depending on the ESP8266 board you're using, you might need to reconfigure the `LED_PIN`. For example, if you're using ESP8266 from AI-Thinker, you might change it from `0` to `2`. Don't have a kit yet? Get it from the 
 
 ![Azure website] (https://docs.microsoft.com/en-us/azure/includes/media/iot-hub-create-hub/create-iot-hub1.png)
 
