@@ -116,8 +116,8 @@ Finally, you send the sensor data to your IoT hub. Note If you're using other ES
 
 
  			    	For more information, see 
- 			    	[Adafruit DHT22 sensor setup](https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/9_connect-feather-huzzah-computer.png )
- 			    	 and [Adafruit Feather HUZZAH Esp8266 Pinouts]. 
+ 			    	![Adafruit DHT22 sensor setup](https://docs.microsoft.com/en-us/azure/iot-hub/media/iot-hub-arduino-huzzah-esp8266-get-started/9_connect-feather-huzzah-computer.png)
+ 			    	 
  Now your Feather Huzzah ESP8266 should be connected with a working sensor. 
  
  ### Connect Feather HUZZAH ESP8266 to your computer As shown next, use the Micro USB to Type A USB cable to connect Feather HUZZAH ESP8266 to your computer. 
